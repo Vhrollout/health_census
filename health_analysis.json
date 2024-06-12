@@ -1,0 +1,55 @@
+{
+    "conditions": [
+        {
+            "name": "Thyroid",
+            "imagesrc": "https://media.istockphoto.com/id/1198780608/photo/human-thyroid-anatomy.jpg?b=1&s=612x612&w=0&k=20&c=X7cmxiE0yqtOdkf7xbEKtcysimuIImQVy6bPu4JCJOs=",
+            "symptoms": [
+                "Fatigue",
+                "Weight gain or loss",
+                "Dry skin",
+                "Muscle weakness",
+                "Irregular menstrual periods"
+            ],
+            "prevention": [
+                "Eat a balanced diet",
+                "Exercise regularly",
+                "Get regular check-ups"
+            ],
+            "treatment": "Medication like levothyroxine may be prescribed by a doctor."
+        },
+        {
+            "name": "Diabetes",
+            "imagesrc": "https://images.pexels.com/photos/1001897/pexels-photo-1001897.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "symptoms": [
+                "Frequent urination",
+                "Increased thirst",
+                "Blurry vision",
+                "Fatigue",
+                "Slow healing of cuts or sores"
+            ],
+            "prevention": [
+                "Maintain a healthy weight",
+                "Follow a balanced diet",
+                "Regular exercise"
+            ],
+            "treatment": "Management includes medication, insulin therapy, and lifestyle changes."
+        },
+        {
+            "name": "High Blood Pressure",
+            "imagesrc": "https://images.pexels.com/photos/7659573/pexels-photo-7659573.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "symptoms": [
+                "Headaches",
+                "Shortness of breath",
+                "Chest pain",
+                "Dizziness",
+                "Blurred or double vision"
+            ],
+            "prevention": [
+                "Reduce salt intake",
+                "Exercise regularly",
+                "Maintain a healthy weight"
+            ],
+            "treatment": "Medications like ACE inhibitors or diuretics may be prescribed."
+        }
+    ]
+}
